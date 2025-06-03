@@ -65,7 +65,7 @@ cd frontend
 npm install
 
 # Lancez l'application
-npm start
+npm run dev
 ```
 
 L'application frontend sera accessible à l'adresse :  
