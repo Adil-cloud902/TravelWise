@@ -98,6 +98,8 @@ Par défaut, le backend sera disponible à l'adresse :
 - **Adil-cloud902** – [GitHub](https://github.com/Adil-cloud902)
 - **Salma-Haidar** – [GitHub](https://github.com/Salma-Haidar)
 - **sahar-sec** – [GitHub](https://github.com/sahar-sec)
+- **hajarjed** - [GitHub](https://github.com/hajarjed)
+- **mohamedjouhari** - [GitHub](https://github.com/mohamedjouhari)
 
 ---
 
