@@ -96,6 +96,7 @@ Par défaut, le backend sera disponible à l'adresse :
 ## 🧑‍💻 Auteur
 
 - **Adil-cloud902** – [GitHub](https://github.com/Adil-cloud902)
+- **Salma-Haidar** – [GitHub](https://github.com/Salma-Haidar)
 
 ---
 
